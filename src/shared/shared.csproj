@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>IntervalTrainer.Shared</AssemblyName>
+    <RootNamespace>BryanPorter.IntervalTrainer.Shared</RootNamespace>
+  </PropertyGroup>
+
+</Project>
